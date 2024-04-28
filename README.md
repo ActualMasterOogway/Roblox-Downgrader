@@ -1,7 +1,7 @@
 <hr/>
 
 <p align="center">
-  <img width="256" height="256" src="https://raw.githubusercontent.com/ActualMasterOogway/Roblox-Downgrader/master/ProjectSrc/Assets/Images/Logo.png"><h1 align=center>Roblox Downgrader<br/>(By: <a href="https://discord.com/users/830031741225009203">ActualMasterOogway</a>)</h1>
+  <img width="256" height="256" src="https://raw.githubusercontent.com/ActualMasterOogway/Roblox-Downgrader/main/ProjectSrc/Assets/Images/Logo.png"><h1 align=center>Roblox Downgrader<br/>(By: <a href="https://discord.com/users/830031741225009203">ActualMasterOogway</a>)</h1>
   
 </p>
 
