@@ -31,5 +31,5 @@ The latest version can be found on the ***Releases*** page of this repository:<b
 https://github.com/ActualMasterOogway/Roblox-Downgrader/releases
 
 You can also download the latest committed versions here:
-* <a href="https://github.com/ActualMasterOogway/Roblox-Downgrader/raw/main/RobloxStudioModManager.exe">Download (.exe)</a></h1>
+* <a href="https://github.com/ActualMasterOogway/Roblox-Downgrader/raw/main/RobloxDowngrader.exe">Download (.exe)</a></h1>
 * <a href="https://github.com/ActualMasterOogway/Roblox-Downgrader/archive/main.zip">Download (.zip)</a>
