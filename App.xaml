@@ -1,0 +1,9 @@
+﻿<Application x:Class="RobloxDowngrader.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:RobloxDowngrader"
+             StartupUri="Assets\Forms\Launcher.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

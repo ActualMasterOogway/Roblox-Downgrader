@@ -1,0 +1,19 @@
+﻿<Window x:Class="RobloxDowngrader.Launcher"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RobloxDowngrader"
+        mc:Ignorable="d"
+        Title="Roblox Downgrader" Height="270" Width="350" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" FontFamily="Segoe UI Light" Icon="/Assets/Images/Icon.ico">
+    <Grid>
+        <Label IsEnabled="False" x:Name="title" Content="Roblox&#10;Downgrader" Margin="135,18,0,0" Height="90" Width="175" TabIndex="20" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Image IsEnabled="False" x:Name="logo" HorizontalAlignment="Left" Height="88" Margin="37,18,0,0" VerticalAlignment="Top" Width="90" Panel.ZIndex="22" Source="/Assets/Images/Logo.png"/>
+        <Button IsEnabled="False" x:Name="downgrade" Content="Downgrade Roblox" HorizontalAlignment="Left" Margin="11,131,0,40" Width="142" Height="23" FontFamily="Segoe UI" FontWeight="Bold" Cursor="Hand" ToolTip="Downgrades Roblox Player to the selected Version." Click="downgrade_Click"/>
+        <Button IsEnabled="False" x:Name="opendir" Content="Open Bloxstrap Directory" HorizontalAlignment="Left" Margin="11,131,0,-40" Width="142" Height="23" FontFamily="Segoe UI" Cursor="Hand" ToolTip="Opens the Folder where Bloxstrap is installed." Click="opendir_Click"/>
+        <Label IsEnabled="False" x:Name="targetVersionLabel" Content="Target Version:" HorizontalAlignment="Left" Margin="175,148,0,0" VerticalAlignment="Top" Width="90" Height="20" FontSize="13" FontFamily="Segoe UI" Padding="0,0,0,0"/>
+        <ComboBox IsEnabled="False" x:Name="targetVersion" HorizontalAlignment="Left" Margin="175,173,0,0" VerticalAlignment="Top" Width="140" Height="25" FontSize="14" Cursor="Hand" Initialized="targetVersion_Initialized" SelectedIndex="0" MaxDropDownHeight="180">
+            <ComboBoxItem Content="Loading..."/>
+        </ComboBox>
+    </Grid>
+</Window>
