@@ -5,7 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RobloxDowngrader"
         mc:Ignorable="d"
-        Title="Roblox Downgrader" Height="270" Width="350" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" FontFamily="Segoe UI Light" Icon="/Assets/Images/Icon.ico">
+        Title="Roblox Downgrader" 
+        Height="270" 
+        Width="350" 
+        ResizeMode="CanMinimize" 
+        WindowStartupLocation="CenterScreen" 
+        FontFamily="Segoe UI Light">
     <Grid>
         <Label IsEnabled="False" x:Name="title" Content="Roblox&#10;Downgrader" Margin="135,18,0,0" Height="90" Width="175" TabIndex="20" FontSize="30" HorizontalAlignment="Left" VerticalAlignment="Top" FontWeight="Bold"/>
         <Image IsEnabled="False" x:Name="logo" HorizontalAlignment="Left" Height="88" Margin="37,18,0,0" VerticalAlignment="Top" Width="90" Panel.ZIndex="22" Source="/Assets/Images/Logo.png"/>
