@@ -17,7 +17,13 @@ Currently it **only** works for the Roblox Player, but that might change in the 
 * Revert to older versions of Roblox Player
 * that's it, what did u expect?
 
-# ANTI-VIRUS DISCLAIMER
+# DISCLAIMER
+
+## BAN-WAVE
+
+If you do not want to get banned, don't use this. There is always a ban risk involved down grading.
+
+## ANTI-VIRUS
 
 If you have an anti-virus program installed, there's a non-zero chance it may flag this program as malicious, due to this application being misdiagnosed as a trojan horse.<br/>
 
