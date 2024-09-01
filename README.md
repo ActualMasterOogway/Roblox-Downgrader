@@ -9,15 +9,17 @@
 
 # What is this?
 
-The **Roblox Downgrader** is an open-source downgrader for Roblox. It is intended for exploiters when Roblox updated, but the executor (for example [Celery](https://celery.zip/)) you're using hasn't.
+The **Roblox Downgrader** is an open-source downgrader for Roblox. It is intended for exploiters when Roblox updated, but the executor you're using hasn't.
 
 Currently it **only** works for the Roblox Player, but i **might** add support for Roblox Studio ([Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) exists already). <a href="https://github.com/pizzaboxer/bloxstrap/">Bloxstrap</a> is needed for it to work!
 
 # Features
-* Revert to older versions of the Roblox Player
-* that's it, what did u expect?
+* Revert to older versions of the Roblox Player!
+* that's it, what did you expect?
 
 # DISCLAIMER
+
+## THIS DOES NOT WORK WITH CELERY.
 
 ## BAN-WAVE
 
